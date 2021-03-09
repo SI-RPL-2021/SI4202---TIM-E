@@ -5,5 +5,10 @@ I Gede Pasek Punia Atmaja
 Fakhrizal Syahrul Ramadhan
 Febrian Farera Irawan
 
+<<<<<<< HEAD
 "Aku tak punya uang—dan kau sudah mendengar apa kata Paman Vernon
 semalam—dia tak mau membayariku belajar sihir."
+=======
+Harry sedang membalik-balik koin penyihir dan memandangnya. Dia baru saja teringat
+sesuatu yang membuat balon kebahagiaan di dalam tubuhnya bocor.
+>>>>>>> 7619049d71c640f3b5f13e2339553a0a87201200
